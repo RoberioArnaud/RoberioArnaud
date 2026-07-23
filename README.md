@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Robério!
 
-🎓 Sou estudante de **Ciência da Computação (5º período – UNIPÊ)**  
+🎓 Sou estudante de **Ciência da Computação (6º período – UNIPÊ)**  
 💻 Apaixonado por tecnologia, aprendizado contínuo e desenvolvimento prático  
 🚀 Em busca de oportunidades para evoluir profissionalmente na área de Computação  
 
